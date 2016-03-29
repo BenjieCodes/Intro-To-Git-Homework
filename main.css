@@ -1,7 +1,6 @@
 body {
-  background-color: lightgrey;
+  background-color: #EEF0F3
   width: 700px;
-  col
 }
 
 .Isymbol {
@@ -23,8 +22,8 @@ body {
 }
 
 .login {
-  margin-left: 245px;
   font-weight: 500;
+  margin-left: 666px;
 }
 
 span {
@@ -73,7 +72,7 @@ p {
 }
 
 .line {
-  border-top: 2.5px solid grey;
+  border-top: 2.5px solid #8D90A1;
 }
 
 footer {
